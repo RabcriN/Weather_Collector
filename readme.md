@@ -16,6 +16,7 @@
 git clone https://github.com/RabcriN/Weather_Collector
 ```
 Cоздать и активировать виртуальное окружение:
+
 Команда для установки виртуального окружения (Mac/Linux):
 ```
 python3 -m venv env
