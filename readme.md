@@ -13,7 +13,7 @@
 ### Как запустить проект:
 Клонировать репозиторий:
 ```
-git clone https://github.com/RabcriN/weather_collector
+git clone https://github.com/RabcriN/Weather_Collector
 ```
 Обновить pip: 
 ```
