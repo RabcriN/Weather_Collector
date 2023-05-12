@@ -15,13 +15,24 @@
 ```
 git clone https://github.com/RabcriN/Weather_Collector
 ```
-Обновить pip: 
+Cоздать и активировать виртуальное окружение:
+Команда для установки виртуального окружения (Mac/Linux):
+```
+python3 -m venv env
+source venv/bin/activate
+```
+Команда для Windows должна быть такая:
+```
+python -m venv venv
+source venv/Scripts/activate
+```
+Обновить pip:
 ```
 python -m pip install --upgrade pip
 ```
-Установить зависимости:
+Установить зависимости из файла requirements.txt:
 ```
-python -m pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 Запустить проект:
 ```
